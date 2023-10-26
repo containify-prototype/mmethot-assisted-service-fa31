@@ -1,4 +1,4 @@
-FROM postgresql-12-centos7:latest-2022-02-04-14-43-04
+FROM postgresql-12-centos7:latest-2022-02-09-19-33-43
 
 LABEL maintainer="Your Name <your.email@example.com>"
 
